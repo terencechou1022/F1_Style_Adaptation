@@ -1,0 +1,15 @@
+# 訓練資料與模型權重不公開（驗收標準 P0 第 6 點）。
+# repo 以程式碼、方法與評估報告為主。
+data/posts/
+data/instruction_dataset*.jsonl
+adapters/
+*.safetensors
+*.gguf
+
+.env
+Gemini_API_Key.txt
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
