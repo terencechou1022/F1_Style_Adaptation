@@ -1,5 +1,7 @@
 # F1 賽評文風微調：QLoRA 與證明它有效的評估框架
 
+[![CI](https://github.com/terencechou1022/F1_Style_Adaptation/actions/workflows/ci.yml/badge.svg)](https://github.com/terencechou1022/F1_Style_Adaptation/actions/workflows/ci.yml)
+
 用歷年撰寫的 F1 賽後分析貼文對開源小模型做 QLoRA 微調，訓練出「我的文風」的
 繁中賽評生成器，並建立評估框架證明微調的實際效果。
 
